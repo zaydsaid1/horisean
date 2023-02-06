@@ -5,7 +5,7 @@ This is my attempt at refracting the code for the Horiseon website without chang
 
 This my completed screenshot
 
-![horisean](screencapture-127-0-0-1-5500-index-html-2023-02-04-13_28_56.png)
+(screencapture-127-0-0-1-5500-index-html-2023-02-04-13_28_56.png)
 
 
 ## Link
